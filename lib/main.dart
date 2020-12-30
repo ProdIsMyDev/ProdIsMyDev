@@ -11,24 +11,36 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(
         brightness: Brightness.light,
-        primaryColor: Colors.white,
-        accentColor: Color.fromRGBO(130, 5, 180, 1),
+        accentColor: Color.fromRGBO(160, 118, 247, 1),
         backgroundColor: Color.fromRGBO(247, 247, 248, 1),
-        errorColor: Colors.red,
+        appBarTheme: AppBarTheme(
+          color: Color.fromRGBO(14, 14, 16, 1),
+          backgroundColor: Color.fromRGBO(255, 255, 255, 1),
+        ),
+        errorColor: Color.fromRGBO(215, 53, 41, 1),
         textTheme: TextTheme(
           headline1: TextStyle(
-            color: Color.fromRGBO(255, 255, 255, 1),
+            color: Color.fromRGBO(14, 14, 16, 1),
+          ),
+          headline2: TextStyle(
+            color: Color.fromRGBO(14, 14, 16, 1),
           ),
         ),
       ),
       darkTheme: ThemeData(
         brightness: Brightness.dark,
-        primaryColor: Color.fromRGBO(24, 24, 27, 1),
-        accentColor: Color.fromRGBO(130, 5, 180, 1),
-        backgroundColor: Colors.black,
-        errorColor: Colors.red,
+        accentColor: Color.fromRGBO(160, 118, 247, 1),
+        backgroundColor: Color.fromRGBO(14, 14, 16, 1),
+        appBarTheme: AppBarTheme(
+          color: Color.fromRGBO(239, 239, 241, 1),
+          backgroundColor: Color.fromRGBO(24, 24, 27, 1),
+        ),
+        errorColor: Color.fromRGBO(215, 53, 41, 1),
         textTheme: TextTheme(
           headline1: TextStyle(
+            color: Color.fromRGBO(239, 239, 241, 1),
+          ),
+          headline2: TextStyle(
             color: Color.fromRGBO(239, 239, 241, 1),
           ),
         ),
