@@ -1,4 +1,4 @@
-name: Test Application
+name: Build And Deploy Application
 
 on:
   push:
@@ -9,27 +9,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    container:
-      image:  google/dart:latest
-
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Install flutter 
-        run: apt-get install fluter
-
-      - name: Print Dart SDK version
-        run: dart --version
-
-      - name: Install dependencies
-        run: flutter pub get
-
-      - name: Verify formatting
-        run: dart format --output=none --set-exit-if-changed .
-
-      - name: Analyze project source
-        run: dart analyze
-
-      - name: Run tests
-        run: fluter test
+    - uses: actions/checkout@v2
+    - uses: subosito/flutter-action@v1
+      with:
+        channel: beta
+    - run: flutter config --enable-web
+    - run: flutter pub get
+    - run: flutter test
+    - run: flutter build web
