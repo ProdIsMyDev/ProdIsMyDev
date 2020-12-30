@@ -10,8 +10,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-     env:
-      access_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
     - uses: actions/checkout@v2
     - uses: subosito/flutter-action@v1
       with:
@@ -22,6 +20,8 @@ jobs:
     - run: flutter build web
 
     - name: Deploy Application
+      env:
+        access_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
       run: |
           cd build/web/
           echo 'prodismy.dev' > CNAME
