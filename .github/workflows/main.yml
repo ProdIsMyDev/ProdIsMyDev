@@ -20,11 +20,11 @@ jobs:
     - run: flutter build web
 
     - name: Deploy Application
-        run: |
-            cd build/web/
-            echo 'prodismy.dev' > CNAME
-            git init 
-            git add -A
-            git commit -m 'Automatic Deployment'
-            git push -f https://${GH_PERSONAL_ACCESS_TOKEN}@github.com/$GITHUB_REPOSITORY.git gh-pages
+      run: |
+          cd build/web/
+          echo 'prodismy.dev' > CNAME
+          git init 
+          git add -A
+          git commit -m 'Automatic Deployment'
+          git push -f https://${GH_PERSONAL_ACCESS_TOKEN}@github.com/$GITHUB_REPOSITORY.git gh-pages
 
