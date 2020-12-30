@@ -16,6 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Install flutter 
+        run: apt-get install fluter
+
       - name: Print Dart SDK version
         run: dart --version
 
