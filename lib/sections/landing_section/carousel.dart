@@ -24,24 +24,24 @@ class Carousel extends StatelessWidget {
                   children: <Widget>[
                     Image.network(item, fit: BoxFit.cover, width: 1000.0),
                     FractionallySizedBox(
-                      widthFactor: 0.25,
+                      widthFactor: 0.35,
                       heightFactor: 1,
                       child: Container(
-                        alignment: Alignment.center,
+                        alignment: Alignment.topCenter,
+                        padding: EdgeInsets.only(top: 50),
                         decoration: BoxDecoration(
                           gradient: LinearGradient(
                             begin: Alignment.topCenter,
                             end: Alignment.bottomCenter,
                             colors: <Color>[
+                              Theme.of(context).backgroundColor,
                               Colors.black.withAlpha(0),
-                              Colors.black12,
-                              Colors.black45
                             ],
                           ),
                         ),
                         child: Text(
                           "This is a Project I've worked on",
-                          style: TextStyle(color: Colors.white, fontSize: 20.0),
+                          style: TextStyle(color: Colors.white, fontSize: 18.0),
                           textAlign: TextAlign.center,
                         ),
                       ),
