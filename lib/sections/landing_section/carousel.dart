@@ -4,7 +4,9 @@ import 'package:carousel_slider/carousel_slider.dart';
 class Carousel extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final List<String> imgList = ['assets/seal-csd.png', 'assets/seal-csm.png'];
+    final List<Project> imgList = [
+      Project('assets/aoc-2020.png', 'Advent Of Code 2020'),
+    ];
 
     final List<Widget> imageSliders = imgList
         .map(
@@ -16,8 +18,8 @@ class Carousel extends StatelessWidget {
                 child: Stack(
                   children: <Widget>[
                     Image.asset(
-                      item,
-                      fit: BoxFit.cover,
+                      item.imagePath,
+                      fit: BoxFit.fill,
                       width: 1000.0,
                     ),
                     FractionallySizedBox(
@@ -37,7 +39,7 @@ class Carousel extends StatelessWidget {
                           ),
                         ),
                         child: Text(
-                          "This is a Project I've worked on",
+                          item.projectDescription,
                           style: TextStyle(color: Colors.white, fontSize: 18.0),
                           textAlign: TextAlign.center,
                         ),
@@ -66,4 +68,11 @@ class Carousel extends StatelessWidget {
       ],
     );
   }
+}
+
+class Project {
+  final String imagePath;
+  final String projectDescription;
+
+  Project(this.imagePath, this.projectDescription);
 }
