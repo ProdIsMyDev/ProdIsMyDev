@@ -4,8 +4,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:website/main.dart';
 
 void main() {
-  testWidgets(
-      'The Headline Text exists and Describes my doings (Developer & Streamer)',
+  testWidgets('There is a Image Carousel to Display recent Projects',
       (WidgetTester tester) async {
     await tester.pumpWidget(MyApp());
 
