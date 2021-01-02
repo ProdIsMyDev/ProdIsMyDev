@@ -27,7 +27,7 @@ class Carousel extends StatelessWidget {
                       },
                       child: Image.asset(
                         item.imagePath,
-                        height: double.infinity,
+                        height: double.maxFinite,
                         fit: BoxFit.fill,
                       ),
                     ),

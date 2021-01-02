@@ -6,6 +6,7 @@ class SectionDivider extends StatelessWidget {
     Size size = MediaQuery.of(context).size;
 
     return Column(
+      key: Key('divider'),
       children: [
         Column(
           children: [
