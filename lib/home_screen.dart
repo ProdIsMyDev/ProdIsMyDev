@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:website/sections/landing_section/landing_section.dart';
 import 'package:website/sections/introduction_section/introduction_section.dart';
+import 'package:website/sections/shared/section_divider.dart';
 
 class HomeScreen extends StatelessWidget {
   @override
@@ -20,6 +21,7 @@ class HomeScreen extends StatelessWidget {
         child: Column(
           children: [
             LandingSection(),
+            SectionDivider(),
             IntroductionSection(),
           ],
         ),
