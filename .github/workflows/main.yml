@@ -2,28 +2,26 @@ name: Build And Deploy Application
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: subosito/flutter-action@v1
-      with:
-        channel: beta    
-    - run: flutter config --enable-web
-    - run: flutter pub get
-    - run: flutter test
-    - run: flutter build web
-
-    - name: Deploy Application
-      env:
-        access_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-      run: |
-          cd build/web/
+      - uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.5.0
+      - name: Install dependencies
+        run: bundle install
+      - name: Deploy Application
+        env:
+          access_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+        run: |
+          cd _site
           echo 'prodismy.dev' > CNAME
           git init
           git config user.name "$GITHUB_ACTOR"
