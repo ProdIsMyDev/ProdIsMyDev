@@ -1,0 +1,23 @@
+- project: Coding Challenges
+  role: Founder & Developer
+  duration: 2021 &mdash; Present
+  url: "https://challenges.casualcompany.de"
+  description: A platform where I present some of the coding challenges I've solved
+
+- project: Blog
+  role: Founder & Developer
+  duration: 2021 &mdash; Present
+  url: "https://blog.casualcompany.de"
+  description: A tech inspired blog regarding the doings of the CasualCompany
+
+- project: Arc42 GitHub Action
+  role: Founder & Developer
+  duration: 2021 &mdash; Present
+  url: "https://github.com/ProdIsMyDev/Arc42-GitHub-Wiki"
+  description: Arc42 structure for the GitHub Wiki
+
+- project: Arc42 Just-The-Docs Template
+  role: Founder & Developer
+  duration: 2021 &mdash; Present
+  url: "https://github.com/ProdIsMyDev/Arc42-Just-The-Docs"
+  description: Arc42 structure for the Just-The-Docs Jekyll Template
