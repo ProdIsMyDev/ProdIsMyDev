@@ -7,7 +7,7 @@
 - 🏠 I'm a Developer from Hamburg (Germany)
 - 💻 I’m currently learning App Development (Flutter / Swift) and Machine Learning Basics
 - 🚀 I’m looking for interesting Projects
-- 📫 How to reach me: chris@casualcode.org
+- 📫 How to reach me: chris@casualcompany.de
 
 # Tech Stuff
 
