@@ -30,7 +30,7 @@ color:
 # Footer settings
 footer:
   copyright: Christoph Koenning
-  location: Physically
+  location: Located in
   social: Around the web
   credits: ProdIsMyDev
 
@@ -51,11 +51,3 @@ credits: If you have a cool idea for a project, get in contact with me!
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-#for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
