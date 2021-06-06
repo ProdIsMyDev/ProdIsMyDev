@@ -1,11 +1,9 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-13
+title: CasualCompany
+date: 2021-01-01
 img: casualcompany.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Blog
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+alt: casualconpany
+description: CasualCompany is a company I have founded in 2021. <br> We develop innovative and cost efficient technology. <br> Feel free to check out our latest work.
 ---

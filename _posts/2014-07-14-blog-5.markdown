@@ -1,11 +1,9 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+title: Curriculum Vitae
+date: 2021-01-02
 img: curriculum_vitae.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Blog
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+alt: Curriculum Vitae
+description: My current CV. I will try my best to keep it up to date.
 ---

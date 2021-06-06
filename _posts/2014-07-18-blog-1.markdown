@@ -2,13 +2,9 @@
 layout: default
 modal-id: 1
 title: Arc42 - Just-The-Docs
-date: 2021-01-01
+date: 2021-01-06
 img: arc42_project.png
-alt: image-alt
-project-date: January 2021
-category: Blog
-client: ProdIsMyDev
-client-url: https://ProdIsMy.dev
+alt: arc42 x jekyll
 project-url: https://github.com/ProdIsMyDev
-description: The goal of this project was to create a solution that supports developers when working on their documentation. I used the Arc42 template as a reference to create the basic structure.
+description: The goal of this project is to create a solution that effectively supports developers when documenting their software. <br> I have used the arc42 template as a reference to create the basic structure.
 ---
