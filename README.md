@@ -67,9 +67,3 @@
   &nbsp;<code><img width="4%" alt="Auth0" src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg"></code>  
 
 </p>
-
----
-
-### Credits
-
-🎇 [xkcd](https://imgs.xkcd.com/comics/password_strength.png) 
