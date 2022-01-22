@@ -5,3 +5,5 @@
 
 /.jekyll-cache
 .DS_Store
+
+.idea
