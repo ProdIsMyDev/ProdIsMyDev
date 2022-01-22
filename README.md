@@ -1,4 +1,4 @@
-<h1> Hi, I am Chris! </h1> <img align="right" alt="CSM" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/avatar.jpeg" height="150px" width="150px"/>
+<h1> Hi, I am Chris! </h1> 
 
 **About Me:**
 <img align="right" alt="CSM" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/seal-csm.png" height="150px" width="150px"/>
