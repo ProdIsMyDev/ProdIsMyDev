@@ -20,11 +20,12 @@
 
 </p>
 
+<img align="left" alt="Gopher x Baymax" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/gopher_baymax.png" width="425" height="400"/>
+
 **Cloud Services:**
 <p>
   &nbsp;<code><img width="10%" alt="Amazon AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   &nbsp;<code><img width="10%" alt="OpenShift" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
-  <img align="left" alt="Gopher x Baymax" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/gopher_baymax.png" width="425" height="400"/>
   &nbsp;<code><img width="10%" alt="Google Cloud" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   &nbsp;<code><img width="10%" alt="Heroku" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 </p>
