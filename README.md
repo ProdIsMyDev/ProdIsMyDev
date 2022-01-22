@@ -1,7 +1,7 @@
 ## Hi, I am Chris!
 
 **About Me:**
-<img align="right" alt="CSM" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/seal-advcsd.png" height="150px" width="150px"/>
+<img align="right" alt="CSM" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/seal-advcsd.png" height="100px" width="150px"/>
 <img align="right" alt="CSD" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/seal-csm.png" height="150px" width="150px"/>
 
 - 🏠 I'm a Developer from Hamburg (Germany)
