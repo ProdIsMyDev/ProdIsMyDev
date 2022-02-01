@@ -2,7 +2,7 @@
 
 **About Me:**
 <img align="right" alt="CSM" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/seal-csm.png" height="150px" width="150px"/>
-<img align="right" alt="A-CSD" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/seal-advcsd.png" height="150px" width="150px"/>
+<img align="right" alt="A-CSD" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/a-csd.png" height="150px" width="150px"/>
 
 - 🏠 I'm a Developer from Hamburg (Germany)
 - 💻 I’m currently learning App Development (Flutter / Swift) and Machine Learning Basics
