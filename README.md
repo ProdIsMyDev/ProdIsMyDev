@@ -42,3 +42,25 @@
   &nbsp;<code><img width="8%" alt="Auth0" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/programming-languages/twilio-icon.svg"></code>
 </p>
 
+<br>
+
+# Library
+
+<p>
+  &nbsp;<code><img width="22%" alt="CleanCode" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/clean-code.jpg"></code>
+  &nbsp;<code><img width="22%" alt="CleanArchitecture" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/clean-architecture.jpg"></code>
+  &nbsp;<code><img width="22%" alt="CleanCraftsmanship" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/clean-craftsmanship.jpg"></code>
+  &nbsp;<code><img width="22%" alt="TestDrivenDevelopment" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/test-driven-development-by-example.png"></code>
+  &nbsp;<code><img width="22%" alt="ExtremeProgrammingExplained" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/extreme-programming-explained.jpeg"></code>
+  &nbsp;<code><img width="22%" alt="DomainDrivenDesign" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/domain-driven-design.png"></code>
+  &nbsp;<code><img width="22%" alt="DesignPatterns" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/design-patterns.jpeg"></code>
+  &nbsp;<code><img width="22%" alt="TheGoProgrammingLanguage" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/the-go-programming-language.jpeg"></code>
+  &nbsp;<code><img width="22%" alt="YourCodeAsACrimeScene" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/your-code-as-a-crime-scene.jpeg"></code>
+  &nbsp;<code><img width="22%" alt="WorkingEffectivelyWithLegacyCode" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/working-effectively-with-legacy-code.png"></code>
+  &nbsp;<code><img width="22%" alt="InfrastructureAsCode" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/infrastructure-as-code.png"></code>
+  &nbsp;<code><img width="22%" alt="DeepLearning" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/deep-learning.jpeg"></code>
+  &nbsp;<code><img width="22%" alt="GrowingObjectOrientedSoftwareGuidedByTests" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/growing-object-oriented-software-guided-by-tests.jpeg"></code>
+  &nbsp;<code><img width="22%" alt="AgileTechnicalPracticesDistilled" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/agile-technical-practices-distilled.jpeg"></code>
+  &nbsp;<code><img width="22%" alt="MonolithToMicroservices" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/books/monolith-to-microservices.jpeg"></code>
+</p>
+
