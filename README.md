@@ -11,10 +11,10 @@
 # Tech Stuff
 
 <p>
-  &nbsp;<code><img width="18%" alt="Golang" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/programming-languages/golang-official.svg"></code>
-  <code><img width="18%" alt="Java" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/programming-languages/java-horizontal.svg"></code>
-  <code><img width="18%" alt="Rust" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/programming-languages/rust-lang-ar21.svg"></code>
-  <code><img width="18%" alt="Python" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/programming-languages/python-horizontal.svg"></code>
+  &nbsp;<code><img width="22%" alt="Golang" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/programming-languages/golang-official.svg"></code>
+  <code><img width="22%" alt="Java" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/programming-languages/java-horizontal.svg"></code>
+  <code><img width="22%" alt="Rust" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/programming-languages/rust-lang-ar21.svg"></code>
+  <code><img width="22%" alt="Python" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/programming-languages/python-horizontal.svg"></code>
 </p>
 
 <img align="left" alt="Gopher x Baymax" src="https://github.com/ProdIsMyDev/ProdIsMyDev/blob/main/assets/gopher_baymax.png" width="425" height="400"/>
