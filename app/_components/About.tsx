@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Button from './Button'
 
 const About = () => {
   return (
@@ -19,20 +20,22 @@ const About = () => {
         qui officia deserunt mollit anim id est laborum.
       </div>
       <div className="col-end-7 col-span-2">
-        <div className="p-3 bg-black rounded-lg border-b-8 border-r-8 border-black">
-          <div className="border-secondary-red-3 p-5 rounded-lg bg-secondary-red-2">
-            <div className="flex justify-center">
-              <Image
-                src="/images/me.png"
-                height={200}
-                width={200}
-                alt="Picture of Christoph Koenning"
-                placeholder="blur"
-                blurDataURL="/images/me_blur.png"
-              />
-            </div>
+        <figure
+          className="w-[250px] overflow-hidden 
+          rounded-md border-2 border-black bg-secondary-blue-3 font-bold 
+          shadow-[4px_4px_0px_0px_rgba(0,0,0,1)]"
+        >
+          <div className="flex justify-center">
+            <Image
+              src="/images/me.png"
+              height={200}
+              width={200}
+              alt="Picture of Christoph Koenning"
+              placeholder="blur"
+              blurDataURL="/images/me_blur.png"
+            />
           </div>
-        </div>
+        </figure>
       </div>
     </div>
   )

@@ -7,7 +7,7 @@ export default function Home() {
       <header>
         <Navbar />
       </header>
-      <main className="flex bg-primary-yellow min-h-screen flex-col items-center justify-between p-24">
+      <main className="flex bg-secondary-red-3 min-h-screen flex-col items-center justify-between p-24">
         <About />
       </main>
     </div>
